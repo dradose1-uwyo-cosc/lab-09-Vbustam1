@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Vidal Bustamante]
+## [Assignment 9]
+## [Submission date: 11/17/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* NA
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* NA
